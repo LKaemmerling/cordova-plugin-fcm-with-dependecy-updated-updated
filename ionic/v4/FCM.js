@@ -71,9 +71,10 @@ FCM = __decorate(
     [
         Plugin({
             pluginName: 'FCM',
-            plugin: 'cordova-plugin-fcm-with-dependecy-updated',
+            plugin: 'cordova-plugin-fcm-with-dependecy-updated-updated',
             pluginRef: 'FCM',
-            repo: 'https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated',
+            repo:
+                'https://github.com/andrehtissot/cordova-plugin-fcm-with-dependecy-updated-updated',
             platforms: ['Android', 'iOS']
         }),
         Injectable()
